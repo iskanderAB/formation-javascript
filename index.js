@@ -1,20 +1,20 @@
-var myphone={
-    make:"Apple",
-    model:"Iphone 7",
-    color:"red",
-    warrenty:12,
-    ring:function(){
-        console.log("deep deep deep!");
-    }
-};
-const tab = ['marwa','iskander','samer','nadin','najla','mohammed'] ;
-let nadin = () => "yaakoubi" ; 
-console.log(tab.map(v => {
-    if( v.length > 5 ){
-        return v + " abbassi"
-    }
-    return v+" codingKis"
-}));
+// var myphone={
+//     make:"Apple",
+//     model:"Iphone 7",
+//     color:"red",
+//     warrenty:12,
+//     ring:function(){
+//         console.log("deep deep deep!");
+//     }
+// };
+// const tab = ['marwa','iskander','samer','nadin','najla','mohammed'] ;
+// let nadin = () => "yaakoubi" ; 
+// console.log(tab.map(v => {
+//     if( v.length > 5 ){
+//         return v + " abbassi"
+//     }
+//     return v+" codingKis"
+// }));
 
 
 
@@ -46,3 +46,6 @@ console.log(tab.map(v => {
 // }))
 
 //console.log(tab.includes('marwa'))
+
+
+console.log("hello i'm iskander");
