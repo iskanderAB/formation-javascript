@@ -7,8 +7,7 @@
 //         console.log("deep deep deep!");
 //     }
 // };
-// const tab = ['marwa','iskander','samer','nadin','najla','mohammed'] ;
-// let nadin = () => "yaakoubi" ; 
+// c
 // console.log(tab.map(v => {
 //     if( v.length > 5 ){
 //         return v + " abbassi"
