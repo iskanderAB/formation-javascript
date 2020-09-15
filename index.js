@@ -7,7 +7,10 @@
 //         console.log("deep deep deep!");
 //     }
 // };
-// c
+
+const tab = ['marwa','iskander','samer','nadin','najla','mohammed'] ;
+// let nadin = () => "yaakoubi" ; 
+
 // console.log(tab.map(v => {
 //     if( v.length > 5 ){
 //         return v + " abbassi"
@@ -48,7 +51,3 @@
 
 
 console.log("hello i'm iskander");
-
-git config --global user.name "Your Name"
-
-git config --global user.email "youremail@yourdomain.com"
