@@ -9,6 +9,50 @@
 // };
 
 const tab = ['marwa','iskander','samer','nadin','najla','mohammed'] ;
+
+const nomPrenom = tab.map(v => {
+    switch(v) {
+        case 'marwa' : 
+            return v+" dhawdi";
+        case 'iskander' : 
+            return v + " abbassi" 
+        case 'samer' : 
+            return v + " bouchen"
+        case 'mohammed' : 
+            return v + " khalladi" 
+        case 'najla' : 
+            return v + " gharbi" 
+        case 'nadin' :
+            return v + " yaakoubi"    
+        default : return v                   
+    }
+});
+
+
+console.log(nomPrenom); 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // let nadin = () => "yaakoubi" ; 
 
 // console.log(tab.map(v => {
